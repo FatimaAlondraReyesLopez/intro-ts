@@ -38,3 +38,5 @@ const articulos2=[telefono,tablet]
 const [total,iva2]=calcularIVA2(articulos2)
 console.log(`Total:${total}`)
 console.log(`IVA:${iva2}`)
+
+
